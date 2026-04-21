@@ -1,7 +1,7 @@
 
   # Commune UI
 
-  This is a code bundle for Commune UI. The original project is available at https://www.figma.com/design/OYbK83nuYQduhsO4q14ms7/Commune-UI.
+  This is a code bundle for Commune UI frontend. The original project is available at https://www.figma.com/design/OYbK83nuYQduhsO4q14ms7/Commune-UI.
 
   ## Running the code
 
